@@ -1,3 +1,6 @@
+https://pagina-de-vendas-thiago.vercel.app/
+
+
 # AuraWatch Premium — Landing Page de Alta Performance
 
 [![GitHub license](https://img.shields.io/github/license/TFS-Data/pagina-de-vendas)](https://github.com/TFS-Data/pagina-de-vendas/blob/main/LICENSE)
